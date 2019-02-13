@@ -1,0 +1,1 @@
+# HibernateHbm2ddlProperties.CreateDrop
